@@ -1,0 +1,14 @@
+8.Open-Source Incident Management System
+Objective: Build a basic incident management portal to log, track, and resolve infra or app issues
+with role-based access.
+Tools: Python (Flask/Django), SQLite, Bootstrap, Docker, Git
+Mini Guide:
+Create REST APIs to create, update, assign, and resolve incidents.
+Add email notifications using SMTP.
+Use Docker to containerize the service.
+Store issues in SQLite and version control in Git.
+Deliverables:
+Source code (hosted on GitHub)
+Docker image
+Demo video/screenshots
+Sample issues logged + resolved
